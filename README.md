@@ -1,5 +1,5 @@
 #  About Me:
- I'm currently working on AI agents, algorithmic trading bots, and quantitative finance tools<br> I'm looking to collaborate on open-source AI/ML projects and fintech tools<br> I'm looking for help with advanced quant strategies and production-grade ML systems<br> I'm currently learning LLMs, quantitative finance, and macroeconomics<br> Ask me about AI, Python, trading bots, and financial markets<br>⚡ Fun fact: I build AI agents and trading systems while studying for my IGCSEs
+ I'm currently working on AI agents, algorithmic trading bots, and quantitative finance tools<br> I'm looking to collaborate on open-source AI/ML projects and fintech tools<br> I'm looking for help with advanced quant strategies and production-grade ML systems<br> I'm currently learning LLMs, quantitative finance, and macroeconomics<br> Ask me about AI, and financial markets<br>⚡ Fun fact: I build AI agents and trading systems while studying for my IGCSEs
 
 
 
