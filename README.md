@@ -10,20 +10,14 @@
 
 #  GitHub Stats:
 <p align="center">
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rohan5commit&theme=tokyonight">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rohan5commit&theme=tokyonight" alt="GitHub stats card showing total commits and total PRs" />
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rohan5commit&theme=dracula">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rohan5commit&theme=dracula" alt="GitHub stats card showing total commits and total PRs" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://streak-stats.demolab.com?user=Rohan5commit&theme=tokyonight&hide_border=true">
-    <img src="https://streak-stats.demolab.com?user=Rohan5commit&theme=tokyonight&hide_border=true" alt="GitHub streak card showing current and longest streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=Rohan5commit&theme=tokyo-night&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohan5commit&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+  <a href="https://streak-stats.demolab.com?user=Rohan5commit&theme=dracula&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=Rohan5commit&theme=dracula&hide_border=true" alt="GitHub streak card showing current and longest streak" />
   </a>
 </p>
 
