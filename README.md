@@ -9,8 +9,8 @@
 
 
 #  GitHub Stats:
-- Followers: https://github.com/Rohan5commit?tab=followers  
-- Repositories: https://github.com/Rohan5commit?tab=repositories  
+- Followers: https://github.com/Rohan5commit?tab=followers
+- Repositories: https://github.com/Rohan5commit?tab=repositories
 - Gists: https://gist.github.com/Rohan5commit
 
 
