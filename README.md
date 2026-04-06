@@ -9,9 +9,9 @@
 
 
 #  GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Rohan5commit&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rohan5commit&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohan5commit&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohan5commit&theme=github_dark)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rohan5commit&theme=github_dark)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rohan5commit&theme=github_dark)
 
 
 ---
