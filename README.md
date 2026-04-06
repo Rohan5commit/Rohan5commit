@@ -9,9 +9,9 @@
 
 
 #  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rohan5commit&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rohan5commit&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan5commit&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+- Followers: https://github.com/Rohan5commit?tab=followers
+- Repositories: https://github.com/Rohan5commit?tab=repositories
+- Gists: https://gist.github.com/Rohan5commit
 
 
 ---
