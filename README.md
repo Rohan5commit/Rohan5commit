@@ -9,12 +9,22 @@
 
 
 #  GitHub Stats:
-<p>
-  <img src="https://img.shields.io/github/followers/Rohan5commit?style=for-the-badge&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Following&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRohan5commit" alt="GitHub following" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRohan5commit" alt="Public repositories" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRohan5commit" alt="Public gists" />
-  <img src="https://img.shields.io/github/last-commit/Rohan5commit/Rohan5commit?style=for-the-badge&label=Last%20Profile%20Update" alt="Last profile update" />
+<p align="center">
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rohan5commit&theme=tokyonight">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rohan5commit&theme=tokyonight" alt="GitHub stats card showing total commits and total PRs" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://streak-stats.demolab.com?user=Rohan5commit&theme=tokyonight&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=Rohan5commit&theme=tokyonight&hide_border=true" alt="GitHub streak card showing current and longest streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=Rohan5commit&theme=tokyo-night&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohan5commit&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+  </a>
 </p>
 
 
