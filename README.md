@@ -9,9 +9,23 @@
 
 
 #  GitHub Stats:
-- Followers: https://github.com/Rohan5commit?tab=followers
-- Repositories: https://github.com/Rohan5commit?tab=repositories
-- Gists: https://gist.github.com/Rohan5commit
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohan5commit&show_icons=true&hide_border=true&theme=transparent" alt="Rohan's GitHub stats" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=Rohan5commit&hide_border=true&theme=transparent" alt="Rohan's GitHub contribution streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan5commit&layout=compact&hide_border=true&theme=transparent" alt="Rohan's top languages" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/github/followers/Rohan5commit?style=for-the-badge&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRohan5commit" alt="Public repositories" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRohan5commit" alt="Public gists" />
+</p>
 
 
 ---
