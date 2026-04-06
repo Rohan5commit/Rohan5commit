@@ -9,10 +9,9 @@
 
 
 #  GitHub Stats:
-- Followers: **11** (live: https://github.com/Rohan5commit?tab=followers)  
-- Following: **6**  
-- Public Repositories: **11** (live: https://github.com/Rohan5commit?tab=repositories)  
-- Public Gists: **0** (live: https://gist.github.com/Rohan5commit)
+- Followers: https://github.com/Rohan5commit?tab=followers  
+- Repositories: https://github.com/Rohan5commit?tab=repositories  
+- Gists: https://gist.github.com/Rohan5commit
 
 
 ---
