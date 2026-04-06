@@ -9,9 +9,9 @@
 
 
 #  GitHub Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohan5commit&theme=github_dark)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rohan5commit&theme=github_dark)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rohan5commit&theme=github_dark)
+[![GitHub followers](https://img.shields.io/github/followers/Rohan5commit?label=Followers&style=for-the-badge)](https://github.com/Rohan5commit?tab=followers)
+[![Public Repositories](https://img.shields.io/badge/dynamic/json?color=1f6feb&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRohan5commit&style=for-the-badge)](https://github.com/Rohan5commit?tab=repositories)
+[![Public Gists](https://img.shields.io/badge/dynamic/json?color=6f42c1&label=Public%20Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRohan5commit&style=for-the-badge)](https://gist.github.com/Rohan5commit)
 
 
 ---
